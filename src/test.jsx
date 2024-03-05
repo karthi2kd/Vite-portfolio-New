@@ -15,7 +15,7 @@ class Test extends Component {
         const {count} = this.state
         return(
             <div>
-                <h1>Hi</h1>
+                <h1>Karthickraj</h1>
                 <p>{count}</p>
                 <button onClick={this.add}>Add</button>
             </div>
