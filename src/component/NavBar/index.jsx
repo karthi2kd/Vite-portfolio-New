@@ -7,6 +7,7 @@ const NavBar = () => (
           <div>
             <p>Home</p>
             <p>About</p>
+            <p>certificates</p>
           </div>
         </nav>
     </>
