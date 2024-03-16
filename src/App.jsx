@@ -1,13 +1,7 @@
-import {Component} from "react"
+import NavBar from "./component/NavBar"
 
-class App extends Component {
-  render(){
-    return(
-      <div>
-        <h1>Hello</h1>
-      </div>
-    )
-  }
-}
+const App = () => (
+            <NavBar/>
+)
 
 export default App
